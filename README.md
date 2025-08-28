@@ -80,5 +80,4 @@ Driven by a passion for **technology and creativity**, I specialize in **fronten
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pinidu-Subasinghe&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinidu-Subasinghe&theme=radical" alt="streak" />
 </p>
