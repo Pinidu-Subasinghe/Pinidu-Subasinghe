@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently pursuing a degree in **B.Sc.(Hons) Information Technology at SLIIT**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-ten-7qsx7iu7pv.vercel.app/](https://portfolio-iota-ten-7qsx7iu7pv.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/Pinidu-Subasinghe](https://tinyurl.com/Pinidu-Subasinghe)
 
 - 📫 How to reach me **pinidusubasinghe@gmail.com**
 
