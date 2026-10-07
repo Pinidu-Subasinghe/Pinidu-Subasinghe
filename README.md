@@ -256,16 +256,6 @@ Building applications that can reliably manage and process data.
 
 # 🌟 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/pinidu-subasinghe">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pinidu-subasinghe&repo=Smart-Performance-Monitoring-and-Operational-Intelligence-System-for-RPTA-Flving-Squad&theme=transparent&hide_border=true" />
-
-</a>
-
-</div>
-
 <br>
 
 > 🚧 **More projects are continuously being added.**
@@ -297,26 +287,6 @@ Building applications that can reliably manage and process data.
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=pinidu-subasinghe&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinidu-subasinghe&bg_color=00000000&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pinidu-subasinghe&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
 
 </div>
 
