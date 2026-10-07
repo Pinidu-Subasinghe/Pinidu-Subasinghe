@@ -48,8 +48,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
-
 Hi! I'm **Pinidu Subasinghe**, a passionate **Frontend Developer and IT undergraduate** from Sri Lanka.
 
 I enjoy transforming ideas into **modern, responsive and practical digital experiences**. My development journey extends beyond frontend technologies into backend development, databases, mobile applications, IoT and intelligent systems.
@@ -405,48 +403,6 @@ Java                     ███████████████░░░�
 
 ---
 
-# 🌱 Learning Journey
-
-```text
-                    ┌─────────────────────┐
-                    │      CURIOUS        │
-                    │       MIND          │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       LEARN         │
-                    │   Explore & Study   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       BUILD         │
-                    │   Turn Ideas Into   │
-                    │      Projects       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       TEST          │
-                    │  Break & Improve    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       SHARE         │
-                    │   Build In Public   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │       REPEAT        │
-                    │   🚀 Keep Growing   │
-                    └─────────────────────┘
-```
-
----
-
 # 💡 Beyond Code
 
 Technology is more than writing code.
@@ -514,9 +470,7 @@ If you're interested in technology, collaboration, projects, or just want to say
 <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<br><br>
-
-### 📬 **Open to interesting ideas, collaborations & opportunities.**
+<br>
 
 </div>
 
