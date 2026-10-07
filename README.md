@@ -1,30 +1,535 @@
-<h1 align="center">Hi 👋, I'm Pinidu Subasinghe</h1>
-<h3 align="center">Frontend Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinidu-subasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="pinidu-subasinghe" /> </p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinidu-subasinghe" alt="pinidu-subasinghe" /></a> </p>
+<!--                         HERO SECTION                           -->
 
-- 🛃 I’m currently working at **Sri Lanka Customs**
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-- 🌱 I’m currently pursuing a degree in **B.Sc.(Hons) Information Technology at SLIIT**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=PINIDU%20SUBASINGHE&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%7C%20IT%20Undergraduate%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn&color=0:0F172A,50:1E3A8A,100:2563EB" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://tinyurl.com/Pinidu-Subasinghe](https://tinyurl.com/Pinidu-Subasinghe)
+<br>
 
-- 📫 How to reach me **pinidusubasinghe@gmail.com**
+<a href="https://github.com/pinidu-subasinghe">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Digital+Experiences+%F0%9F%9A%80;Frontend+Developer+%7C+Software+Enthusiast+%F0%9F%92%BB;Exploring+IoT+%26+Smart+Systems+%F0%9F%93%A1;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pinidupramudith0618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinidupramudith0618" height="30" width="40" /></a>
-<a href="https://fb.com/pinidu pramudith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pinidu pramudith" height="30" width="40" /></a>
-<a href="https://instagram.com/pinidu_pramudith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinidu_pramudith" height="30" width="40" /></a>
-</p>
+<br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="https://tinyurl.com/Pinidu-Subasinghe">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pinidusubasinghe@gmail.com">
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/pinidupramudith0618">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/pinidu-subasinghe">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinidu-subasinghe&show_icons=true&locale=en&layout=compact" alt="pinidu-subasinghe" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinidu-subasinghe&show_icons=true&locale=en" alt="pinidu-subasinghe" /></p>
+<img src="https://komarev.com/ghpvc/?username=pinidu-subasinghe&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinidu-subasinghe&" alt="pinidu-subasinghe" /></p>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         ABOUT ME                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+
+Hi! I'm **Pinidu Subasinghe**, a passionate **Frontend Developer and IT undergraduate** from Sri Lanka.
+
+I enjoy transforming ideas into **modern, responsive and practical digital experiences**. My development journey extends beyond frontend technologies into backend development, databases, mobile applications, IoT and intelligent systems.
+
+### 🚀 Currently
+
+* 🎓 Pursuing **B.Sc. (Hons) Information Technology** at **SLIIT**
+* 🛃 Working at **Sri Lanka Customs**
+* 💻 Building modern **web & software applications**
+* 📡 Exploring **IoT & embedded systems**
+* 🧠 Improving my **full-stack development** skills
+* 🔍 Exploring smarter ways to solve real-world problems
+* 🚀 Turning concepts into working products
+
+<br clear="right"/>
+
+---
+
+## ⚡ My Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨
+
+### Design
+
+Clean interfaces
+Meaningful UX
+Responsive layouts
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+### Develop
+
+Clean code
+Reusable components
+Scalable systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+### Learn
+
+New technologies
+Better practices
+Continuous growth
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### Build
+
+Real solutions
+Useful products
+Impactful systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧰 Technology Arsenal
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,kotlin&theme=dark" />
+
+<br><br>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+<br><br>
+
+### 📱 Mobile & IoT
+
+<img src="https://skillicons.dev/icons?i=android,kotlin,arduino&theme=dark" />
+
+<br><br>
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎨 Frontend Development
+
+I build modern interfaces with an emphasis on **usability, responsiveness and clean architecture**.
+
+**Focus Areas**
+
+* ⚛️ React applications
+* 📱 Responsive web design
+* 🧩 Component-based architecture
+* 🎨 Tailwind CSS
+* ✨ Interactive UI
+* 🖥️ Cross-device experiences
+* 🔗 REST API integration
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Software Engineering
+
+I enjoy developing practical systems that solve real problems.
+
+**Focus Areas**
+
+* ☕ Java applications
+* 🐍 Python development
+* 🟪 PHP applications
+* 🟢 Node.js
+* 🔌 REST APIs
+* 🗄️ Database-driven systems
+* 🧱 Object-oriented programming
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📡 IoT & Embedded Systems
+
+Exploring the intersection between software and physical systems.
+
+**Focus Areas**
+
+* 🔌 ESP32
+* 📍 GPS & location tracking
+* 🌡️ Environmental sensors
+* 📊 Real-time telemetry
+* 📡 Wireless communication
+* 🤖 Smart monitoring systems
+* ☁️ IoT data processing
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🗃️ Data & Databases
+
+Building applications that can reliably manage and process data.
+
+**Technologies**
+
+* 🍃 MongoDB
+* 🐬 MySQL
+* 🗄️ Microsoft SQL Server
+* 🔄 CRUD systems
+* 🔗 API integration
+* 📊 Data-driven applications
+* 🔐 Structured data management
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/pinidu-subasinghe">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pinidu-subasinghe&repo=Smart-Performance-Monitoring-and-Operational-Intelligence-System-for-RPTA-Flving-Squad&theme=transparent&hide_border=true" />
+
+</a>
+
+</div>
+
+<br>
+
+> 🚧 **More projects are continuously being added.**
+>
+> Check out my portfolio for the complete collection of projects and experiments.
+
+<div align="center">
+
+<a href="https://tinyurl.com/Pinidu-Subasinghe">
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20ALL%20PROJECTS-6C63FF?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Performance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pinidu-subasinghe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&custom_title=Pinidu's%20GitHub%20Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinidu-subasinghe&layout=compact&hide_border=true&langs_count=8&theme=transparent&custom_title=Most%20Used%20Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=pinidu-subasinghe&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinidu-subasinghe&bg_color=00000000&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pinidu-subasinghe&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
+
+</div>
+
+---
+
+# 📌 My Current Focus
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### ⚛️
+
+**Modern Frontend**
+
+React
+UI/UX
+Responsive Design
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+**Software Engineering**
+
+Architecture
+APIs
+Clean Code
+
+</td>
+
+<td align="center">
+
+### 📡
+
+**IoT Systems**
+
+ESP32
+Sensors
+Telemetry
+
+</td>
+
+<td align="center">
+
+### ☁️
+
+**Cloud & DevOps**
+
+Git
+APIs
+Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧩 Skills Overview
+
+```text
+Frontend Development     ███████████████████░░   90%
+JavaScript / React       ██████████████████░░░   85%
+UI / UX                  █████████████████░░░░   80%
+Backend Development      ████████████████░░░░░   75%
+Database Development     ████████████████░░░░░   75%
+IoT / Embedded Systems   ███████████████░░░░░░   70%
+Python                   ███████████████░░░░░░   70%
+Java                     ███████████████░░░░░░   70%
+```
+
+> **Note:** These represent my current areas of focus and experience, not formal skill ratings.
+
+---
+
+# 🌱 Learning Journey
+
+```text
+                    ┌─────────────────────┐
+                    │      CURIOUS        │
+                    │       MIND          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       LEARN         │
+                    │   Explore & Study   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       BUILD         │
+                    │   Turn Ideas Into   │
+                    │      Projects       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       TEST          │
+                    │  Break & Improve    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       SHARE         │
+                    │   Build In Public   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       REPEAT        │
+                    │   🚀 Keep Growing   │
+                    └─────────────────────┘
+```
+
+---
+
+# 💡 Beyond Code
+
+Technology is more than writing code.
+
+I'm interested in understanding **real-world problems**, designing practical solutions, and connecting different technologies to create systems that are actually useful.
+
+### Areas I'm exploring
+
+`🌐 Web Development`
+`📱 Mobile Development`
+`📡 Internet of Things`
+`🗺️ Location Intelligence`
+`☁️ Cloud Technologies`
+`🗄️ Database Systems`
+`🤖 Intelligent Systems`
+`🎨 UI/UX Design`
+
+---
+
+# 📚 Education
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="100%">
+
+### 🎓 B.Sc. (Hons) Information Technology
+
+**Sri Lanka Institute of Information Technology — SLIIT**
+
+📍 Sri Lanka
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in technology, collaboration, projects, or just want to say **hi**, feel free to reach out.
+
+<br>
+
+<a href="mailto:pinidusubasinghe@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/pinidupramudith0618">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/pinidu_pramudith">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://tinyurl.com/Pinidu-Subasinghe">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📬 **Open to interesting ideas, collaborations & opportunities.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭
+
+### *"Build. Learn. Improve. Repeat."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,50:1E3A8A,100:0F172A&animation=fadeIn" width="100%"/>
+
+</div>
